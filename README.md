@@ -1,1 +1,9 @@
-"# tf_keras_3_inceptionv3" 
+# The basics of machine learning in Python/tensorflow/keras/inceptionv3
+
+## Authors
+
+* **Kornelisz Lewczuk**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
